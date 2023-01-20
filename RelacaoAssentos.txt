@@ -1,0 +1,6 @@
+Relação dos assentos Disponíveis x Ocupados:
+
+
+Assentos disponíveis: A1 | A3 | A4 | B0 | B1 | B4 | C0 | C1 | C3 | C4 | D0 | D1 | D3 | D4 | E0 | E1 | E4 | F0 | F1 | F3 | G0 | G1 | G3 | G4 | 
+
+Assentos ocupados: A0 | B3 | F4 | E3 | 
